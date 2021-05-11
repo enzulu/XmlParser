@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XmlParser": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\admin\\Downloads\\openPLC\\test_project1\\plc.xml\""
+    }
+  }
+}
